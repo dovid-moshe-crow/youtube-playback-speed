@@ -1,0 +1,18 @@
+{
+  "name": "youtube-playback-speed",
+  "version": "1.0.0",
+  "description": "Control playback speed of Youtube videos",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src\\*"
+  },
+  "keywords": [],
+  "author": "dovid-moshe-crow",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.163",
+    "parcel": "^2.0.1",
+    "parcel-reporter-static-files-copy": "^1.3.0",
+    "typescript": "^4.4.4"
+  }
+}
